@@ -18,7 +18,7 @@
   </a>
 </p>
 
-### 👨‍💻 Về tôi (About Me): [My Portfolio](https://phongwind10.github.io/PhongPortfolio/#projects)
+### 👨‍💻 Về tôi (About Me): [My Portfolio](https://phongwind10.github.io/PhongPortfolio/#home)
 
 Là một "vibe coder" mang trong mình chút bụi sao. Được dẫn dắt bởi trực giác và thúc đẩy bởi sự sáng tạo. Giống như một Song Ngư thực thụ, mình để trực giác dẫn lối qua đại dương dữ liệu sâu thẳm. Mình khá hòa đồng nhưng đôi khi cũng hơi e ngại khi làm quen với người lạ. 🌊
 
