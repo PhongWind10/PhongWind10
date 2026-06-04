@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://path-to-your-generated-image.svg" alt="Hi! I'm Hữu Phong" />
 </p>
+
 ### A Data Science student. I'm a vibe coder with a sprinkle of stardust 🌌
 <p align="center">
   <a href="https://git.io/typing-svg">
