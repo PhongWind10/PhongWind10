@@ -2,7 +2,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=850&color=FFFFFF&center=false&size=20&lines=Data+Web+Scraping+%2F+Crawling+-+Thu+thập+dữ+liệu+từ+web;Data+Cleaning+%2F+Wrangling+-+Làm+sạch+và+tinh+chỉnh+dữ+liệu;ETL+(Extract,+Transform,+Load)+-+Trích+xuất,+chuyển+đổi,+tải+dữ+liệu;Data+Imputation+-+Xử+lý+dữ+liệu+khuyết+thiếu;Feature+Engineering+-+Kỹ+nghệ+đặc+trưng;Feature+Scaling+-+Chuẩn+hóa+dữ+liệu;Outlier+Detection+-+Phát+hiện+dữ+liệu+ngoại+lai;Supervised+Learning+-+Học+có+giám+sát;Unsupervised+Learning+-+Học+không+giám+sát;Reinforcement+Learning+-+Học+tăng+cường;Classification+-+Phân+loại;Clustering+-+Phân+cụm;Dimensionality+Reduction+-+Giảm+chiều+dữ+liệu;Neural+Networks+-+Mạng+nơ-ron;Natural+Language+Processing+(NLP)+-+Xử+lý+ngôn+ngữ+tự+nhiên;Computer+Vision+(CV)+-+Thị+giác+máy+tính;Large+Language+Models+(LLM)+-+Mô+hình+ngôn+ngữ+lớn;Hadoop+Ecosystem+-+Hệ+sinh+thái+Hadoop;Spark+%2F+PySpark+-+Xử+lý+dữ+liệu+lớn+tốc+độ+cao;Stream+Processing+-+Xử+lý+dữ+liệu+dòng+(real-time);Data+Visualization+-+Trực+quan+hóa+dữ+liệu;Exploratory+Data+Analysis+(EDA)+-+Phân+tích+dữ+liệu+khám+phá" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=850&color=FFFFFF&center=false&size=18&lines=Data+Web+Scraping+%2F+Crawling+-+Thu+thập+dữ+liệu;Data+Cleaning+%2F+Wrangling+-+Làm+sạch+dữ+liệu;ETL+(Extract,+Transform,+Load)+-+Xử+lý+dữ+liệu;Data+Imputation+-+Xử+lý+dữ+liệu+khuyết+thiếu;Exploratory+Data+Analysis+(EDA);Data+Visualization+-+Trực+quan+hóa+dữ+liệu" alt="Data Processing" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=850&color=FFFFFF&center=false&size=18&lines=Feature+Engineering+%26+Scaling+-+Kỹ+nghệ+đặc+trưng;Supervised+%26+Unsupervised+Learning;Classification+%26+Clustering;Dimensionality+Reduction+-+Giảm+chiều+dữ+liệu;Neural+Networks+-+Mạng+nơ-ron;NLP+%26+Computer+Vision;Large+Language+Models+(LLM)" alt="Machine Learning & AI" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=850&color=FFFFFF&center=false&size=18&lines=Hadoop+Ecosystem+-+Hệ+sinh+thái+Hadoop;Spark+%2F+PySpark+-+Xử+lý+Big+Data;Stream+Processing+-+Xử+lý+dữ+liệu+dòng;Outlier+Detection+-+Phát+hiện+ngoại+lai;Reinforcement+Learning+-+Học+tăng+cường" alt="Big Data & Others" />
   </a>
 </p>
 
