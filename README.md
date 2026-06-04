@@ -1,22 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,100:38BDF8&height=250&section=header&text=HI!%20I'M%20H%E1%BB%AEU%20PHONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Hi! I'm Hữu Phong" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,100:38BDF8&height=150&section=header&text=HI!%20I'M%20H%E1%BB%AEU%20PHONG&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Hi! I'm Hữu Phong" />
 </p>
 
 ### A Data Science student. I'm a vibe coder with a sprinkle of stardust 🌌
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=2563EB%3B38BDF8%3BFFFFFF&center=false&size=16&lines=Data+Web+Scraping+%2F+Crawling;Data+Cleaning+%2F+Wrangling;ETL+(Extract,+Transform,+Load);Data+Imputation;Exploratory+Data+Analysis+(EDA);Data+Visualization" alt="Data Processing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=FDE68A%3BFEF08A%3BFFFBEB&center=false&size=16&lines=Data+Web+Scraping+%2F+Crawling;Data+Cleaning+%2F+Wrangling;ETL+(Extract,+Transform,+Load);Data+Imputation;Exploratory+Data+Analysis+(EDA);Data+Visualization" alt="Data Processing" />
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=2563EB%3B38BDF8%3BFFFFFF&center=false&size=16&lines=Feature+Engineering+%26+Scaling;Supervised+%26+Unsupervised+Learning;Classification+%26+Clustering;Dimensionality+Reduction;Neural+Networks;NLP+%26+Computer+Vision;Large+Language+Models+(LLM)" alt="Machine Learning & AI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=FDE68A%3BFEF08A%3BFFFBEB&center=false&size=16&lines=Feature+Engineering+%26+Scaling;Supervised+%26+Unsupervised+Learning;Classification+%26+Clustering;Dimensionality+Reduction;Neural+Networks;NLP+%26+Computer+Vision;Large+Language+Models+(LLM)" alt="Machine Learning & AI" />
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=2563EB%3B38BDF8%3BFFFFFF&center=false&size=16&lines=Hadoop+Ecosystem;Spark+%2F+PySpark;Stream+Processing+(Real-time);Outlier+Detection;Reinforcement+Learning" alt="Big Data & Others" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=FDE68A%3BFEF08A%3BFFFBEB&center=false&size=16&lines=Hadoop+Ecosystem;Spark+%2F+PySpark;Stream+Processing+(Real-time);Outlier+Detection;Reinforcement+Learning" alt="Big Data & Others" />
   </a>
 </p>
-### 👨‍💻 About me: [My Portfolio](https://phongwind10.github.io/PhongPortfolio/#projects)
+
+### 👨‍💻 Về tôi (About Me): [My Portfolio](https://phongwind10.github.io/PhongPortfolio/#projects)
 
 Là một "vibe coder" mang trong mình chút bụi sao. Được dẫn dắt bởi trực giác và thúc đẩy bởi sự sáng tạo. Giống như một Song Ngư thực thụ, mình để trực giác dẫn lối qua đại dương dữ liệu sâu thẳm. Mình khá hòa đồng nhưng đôi khi cũng hơi e ngại khi làm quen với người lạ. 🌊
 
