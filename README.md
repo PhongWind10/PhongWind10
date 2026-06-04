@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Phong+Ng%C3%B4%EF%B9%A0;A+Pisces+navigating+the+ocean+of+data...;Let's+build+something+cool+together!&center=false&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=850&color=FFFFFF&center=false&size=20&lines=Data+Web+Scraping+%2F+Crawling+-+Thu+thập+dữ+liệu+từ+web;Data+Cleaning+%2F+Wrangling+-+Làm+sạch+và+tinh+chỉnh+dữ+liệu;ETL+(Extract,+Transform,+Load)+-+Trích+xuất,+chuyển+đổi,+tải+dữ+liệu;Data+Imputation+-+Xử+lý+dữ+liệu+khuyết+thiếu;Feature+Engineering+-+Kỹ+nghệ+đặc+trưng;Feature+Scaling+-+Chuẩn+hóa+dữ+liệu;Outlier+Detection+-+Phát+hiện+dữ+liệu+ngoại+lai;Supervised+Learning+-+Học+có+giám+sát;Unsupervised+Learning+-+Học+không+giám+sát;Reinforcement+Learning+-+Học+tăng+cường;Classification+-+Phân+loại;Clustering+-+Phân+cụm;Dimensionality+Reduction+-+Giảm+chiều+dữ+liệu;Neural+Networks+-+Mạng+nơ-ron;Natural+Language+Processing+(NLP)+-+Xử+lý+ngôn+ngữ+tự+nhiên;Computer+Vision+(CV)+-+Thị+giác+máy+tính;Large+Language+Models+(LLM)+-+Mô+hình+ngôn+ngữ+lớn;Hadoop+Ecosystem+-+Hệ+sinh+thái+Hadoop;Spark+%2F+PySpark+-+Xử+lý+dữ+liệu+lớn+tốc+độ+cao;Stream+Processing+-+Xử+lý+dữ+liệu+dòng+(real-time);Data+Visualization+-+Trực+quan+hóa+dữ+liệu;Exploratory+Data+Analysis+(EDA)+-+Phân+tích+dữ+liệu+khám+phá" alt="Typing SVG" />
   </a>
 </p>
 
