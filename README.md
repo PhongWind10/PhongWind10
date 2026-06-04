@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path-to-your-generated-image.svg" alt="Hi! I'm Hữu Phong" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,100:38BDF8&height=250&section=header&text=HI!%20I'M%20H%E1%BB%AEU%20PHONG&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Hi! I'm Hữu Phong" />
 </p>
 
 ### A Data Science student. I'm a vibe coder with a sprinkle of stardust 🌌
