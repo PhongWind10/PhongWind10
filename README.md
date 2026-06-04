@@ -2,15 +2,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=850&color=FFFFFF&center=false&size=18&lines=Data+Web+Scraping+%2F+Crawling;Data+Cleaning+%2F+Wrangling;ETL+(Extract,+Transform,+Load);Data+Imputation;Exploratory+Data+Analysis+(EDA);Data+Visualization" alt="Data Processing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=2563EB%3B38BDF8%3BFFFFFF&center=false&size=16&lines=Data+Web+Scraping+%2F+Crawling;Data+Cleaning+%2F+Wrangling;ETL+(Extract,+Transform,+Load);Data+Imputation;Exploratory+Data+Analysis+(EDA);Data+Visualization" alt="Data Processing" />
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=850&color=FFFFFF&center=false&size=18&lines=Feature+Engineering+%26+Scaling;Supervised+%26+Unsupervised+Learning;Classification+%26+Clustering;Dimensionality+Reduction;Neural+Networks;NLP+%26+Computer+Vision;Large+Language+Models+(LLM)" alt="Machine Learning & AI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=2563EB%3B38BDF8%3BFFFFFF&center=false&size=16&lines=Feature+Engineering+%26+Scaling;Supervised+%26+Unsupervised+Learning;Classification+%26+Clustering;Dimensionality+Reduction;Neural+Networks;NLP+%26+Computer+Vision;Large+Language+Models+(LLM)" alt="Machine Learning & AI" />
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=850&color=FFFFFF&center=false&size=18&lines=Hadoop+Ecosystem;Spark+%2F+PySpark;Stream+Processing+(Real-time);Outlier+Detection;Reinforcement+Learning" alt="Big Data & Others" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=2563EB%3B38BDF8%3BFFFFFF&center=false&size=16&lines=Hadoop+Ecosystem;Spark+%2F+PySpark;Stream+Processing+(Real-time);Outlier+Detection;Reinforcement+Learning" alt="Big Data & Others" />
   </a>
 </p>
 
