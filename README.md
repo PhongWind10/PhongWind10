@@ -1,16 +1,42 @@
-## Hi there 👋
+### A Data Science student. I'm a vibe coder with a sprinkle of stardust 🌌
 
-<!--
-**PhongWind10/PhongWind10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Phong+Ng%C3%B4%EF%B9%A0;A+Pisces+navigating+the+ocean+of+data...;Let's+build+something+cool+together!&center=false&size=20" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Về tôi (About Me) — [My Portfolio](https://phongwind10.github.io/PhongPortfolio/#projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Là một "vibe coder" mang trong mình chút bụi sao. Được dẫn dắt bởi trực giác và thúc đẩy bởi sự sáng tạo. Giống như một Song Ngư thực thụ, mình để trực giác dẫn lối qua đại dương dữ liệu sâu thẳm. Mình khá hòa đồng nhưng đôi khi cũng hơi e ngại khi làm quen với người lạ. 🌊
+
+* 🌱 **Đam mê / Passion:** Khai phá dữ liệu và xây dựng các mô hình AI/Machine Learning *(Data exploration & building Predictive Models).*
+* 💻 **Học vấn / Learning:** Phần lập trình (coding) còn nhiều hạn chế, nhưng mình luôn nỗ lực cải thiện và học hỏi mỗi ngày *(My coding ability is still limited, but I strive to improve daily).*
+* 🌊 **Thế mạnh / Strength:** Có trực giác nhạy bén trong việc làm sạch dữ liệu và tìm ra các "insights" ẩn giấu *(Sharp intuition in data cleaning and uncovering hidden insights).*
+* 🤖 **Mục tiêu / Goal:** Ứng dụng mô hình vào các bài toán thực tế như dự đoán ùn tắc giao thông, nhận diện hỏa hoạn... *(Applying models to real-world problems like traffic congestion and fire prediction).*
+* 📫 **Liên hệ / Contact:** [phonghuungo248@gmail.com](mailto:phonghuungo248@gmail.com)
+
+### 🤝 Kết nối với mình (Connect with me)
+
+<p align="left">
+  <a href="https://www.facebook.com/Ngohuuphong98341010" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/2k4.wind19?igsh=MXBma2F4d2MzMW9oMA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/Tg6wDsVn3" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+### 🌟 Bấm vào đây để nhận một ngôi sao (Click here for a star)
+
+<details>
+<summary>✨ Mở điều bất ngờ... (Open for a surprise...)</summary>
+<br />
+
+Gửi tặng bạn một vì sao sáng nhất từ đại dương dữ liệu của mình! Chúc bạn một ngày tràn đầy cảm hứng và code mượt mà không có bug! 🌌
+
+⭐ 🌟 ✨ 💫 🌠
+</details>
