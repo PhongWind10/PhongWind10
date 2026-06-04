@@ -16,7 +16,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&width=1000&color=2563EB%3B38BDF8%3BFFFFFF&center=false&size=16&lines=Hadoop+Ecosystem;Spark+%2F+PySpark;Stream+Processing+(Real-time);Outlier+Detection;Reinforcement+Learning" alt="Big Data & Others" />
   </a>
 </p>
-### 👨‍💻 Về tôi (About Me) — [My Portfolio](https://phongwind10.github.io/PhongPortfolio/#projects)
+### 👨‍💻 About me: [My Portfolio](https://phongwind10.github.io/PhongPortfolio/#projects)
 
 Là một "vibe coder" mang trong mình chút bụi sao. Được dẫn dắt bởi trực giác và thúc đẩy bởi sự sáng tạo. Giống như một Song Ngư thực thụ, mình để trực giác dẫn lối qua đại dương dữ liệu sâu thẳm. Mình khá hòa đồng nhưng đôi khi cũng hơi e ngại khi làm quen với người lạ. 🌊
 
